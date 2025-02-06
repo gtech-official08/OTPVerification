@@ -1,0 +1,17 @@
+/*  */
+/* Any if you want to add font-family then always put the @import in the top of the file */
+/* Google font family @import.... link */
+
+@import "tailwindcss";
+
+* {
+  /* margin: 0;
+  padding: 0; */
+  /* don't add any padding or margin because in the latest version of tailwind css the default margin and padding is 0 if you add this in your global css, then your p and m classes for padding and margin will not work so leave it as a it */
+  box-sizing: border-box;
+  /* you can add box-sizing this will not affect anything */
+}
+
+
+
+/*  */
